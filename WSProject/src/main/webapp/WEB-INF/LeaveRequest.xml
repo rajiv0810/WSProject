@@ -1,0 +1,12 @@
+<LeaveRequest xmlns = "http://tutorialspoint.com/hr/schemas">
+   <Leave>
+      <StartDate>2016-07-03</StartDate>
+      <EndDate>2016-07-07</EndDate>
+   </Leave>
+   
+   <Employee>
+      <Number>404</Number>
+      <FirstName>Mahesh</FirstName>
+      <LastName>Parashar</LastName>
+   </Employee>
+</LeaveRequest>
